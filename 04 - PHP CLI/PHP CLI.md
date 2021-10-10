@@ -6,12 +6,10 @@ A CLI é uma ferramenta muito utilizada pelos programadores afim de criar ou ver
 
 A seguir poderá ser visto um exemplo de como utilizar a CLI do PHP. 
 
-1. Crie um arquivo com o nome calculo.php em seguida digite os códigos da imagem abaixo:
+1. Crie um arquivo com o nome calculo.php em seguida digite os códigos do script abaixo:
 
 </p>
 
-<br>
-<img align="center" src="https://github.com/SalesCodes/Modulo-1-Logica-com-PHP/blob/main/img/php-cli.png?raw=true" alt="php" />
 
 <p align="justify"> Por fim execute o comando abaixo no terminal, desde que esteja na pasta onde o arquivo está contido. </p>
 
