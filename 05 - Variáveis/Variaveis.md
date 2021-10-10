@@ -24,6 +24,26 @@ Variáveis no PHP são CaseSensitive ou seja, fazem diferenciação entre letras
 
 Obs: Ao executar o script variaveis.php contido na pasta, não será possível, pois os exemplo de variáveis inválidas, irá gerar um erro, então para devida execução remova as incorretas e atribua valor as válidas.
 
+Exemplo prático:
+
+```php
+<?php
+
+/* Variáveis válidas */
+
+$nome;
+$idade;
+$numero1;
+$numero_telefone;
+
+
+/* Variáveis inválidas */
+
+$1numero;
+$-nome;
+
+```
+
 Você poderá ver a aula respectiva no Youtube.
 
 </p>

@@ -21,6 +21,24 @@ A seguir poderá ser visto um exemplo de como utilizar a CLI do PHP.
 
 Se deu tudo certo, você poderá alterar os valores das notas e executar o comando diversas vezes para verificar o resultado dos cálculos, a partir deste momento, você já poderá criar seus próprios scripts seguindo a mesma linha de raciocínio.
 
+Exemplo prático:
+```php
+<?php
+
+$nota1 = 9;
+$nota2= 10;
+$nota3 = 7.8;
+$nota4 = 5.9;
+
+$media = ($nota1 + $nota2 + $nota3 + $nota4) / 4;
+
+echo $media . PHP_EOL;
+```
+Podendo ser executado acessando a pasta e executando o comando:
+
+```bash
+php calculo.php
+```
 Aproveite visita a aula em vídeo no Youtube.
 </p>
 
