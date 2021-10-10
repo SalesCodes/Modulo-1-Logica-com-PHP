@@ -11,7 +11,7 @@ A seguir poderá ser visto um exemplo de como utilizar a CLI do PHP.
 </p>
 
 <br>
-<img align="center" src="https://github.com/RuanSalles/curso-logica-php/blob/main/img/php-cli.png?raw=true" alt="php" />
+<img align="center" src="https://github.com/SalesCodes/Modulo-1-Logica-com-PHP/blob/main/img/php-cli.png?raw=true" alt="php" />
 
 <p align="justify"> Por fim execute o comando abaixo no terminal, desde que esteja na pasta onde o arquivo está contido. </p>
 
