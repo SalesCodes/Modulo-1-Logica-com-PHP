@@ -19,7 +19,7 @@ O treinamento tem como objetivo o ensino da lógica de programação utilizando 
 ## Redes Sociais
 
 <left>
-  <a href="https://www.youtube.com/playlist?list=PL9colCIIhmx0y7-jyE-88D-xAGL7VtNxX">
+  <a href="https://www.youtube.com/playlist?list=PL9colCIIhmx0y7-jyE-88D-xAGL7VtNxX" target="_blank">
   <img src="https://img.shields.io/badge/Playlist Curso Lógica de Progrmação com PHP-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </left>
