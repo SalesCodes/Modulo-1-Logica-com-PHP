@@ -1,6 +1,6 @@
 # Treinamento Lógica de Programação com PHP - SalesCodes
 
-<img align="center" src="https://github.com/RuanSalles/curso-logica-php/blob/main/img/salescodes.png?raw=true" alt="php" width="400"/></a>
+<img align="center" src="https://github.com/SalesCodes/Modulo-1-Logica-com-PHP/blob/main/img/salescodes.png?raw=true" alt="php" width="400"/></a>
 
 
 ### Objetivo do treinamento
