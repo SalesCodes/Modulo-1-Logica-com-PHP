@@ -28,6 +28,6 @@ Para este treinamento a versão 7.4 do PHP será suficiente para utilização.
 
 [Download PHP](https://windows.php.net/download#php-8.0)
 
-Visite a aula no YouTube.
+**Visite a aula em vídeo no YouTube.**
 
 [02 - Configurando Ambiente](https://www.youtube.com/watch?v=4pf_jn3HjnM)

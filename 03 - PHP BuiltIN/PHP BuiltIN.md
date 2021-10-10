@@ -30,6 +30,6 @@ php -S localhost:8000
 
 Vá até o seu navegador e digite  endereço 127.0.0.1:8000 o retorno será o resultado textual do script, vale salientar que no trecho o ponto 2 os valores que vem após os ( : ) depois pontos, se refere a porta utilizada para iniciar o servidor, logo você poderá ter diversos scripts rodando em portas diferentes desde que elas não estejam ocupadas, ou seja, você pode iniciar com a porta 8000, 8001, 8002 e assim sucessivamente, caso deseje executar aplicações diferentes ao mesmo tempo.
 
-Visite a aula em vídeo no YouTube.
+**Visite a aula em vídeo no YouTube.**
 
 [03 - PHP BuiltIN](https://www.youtube.com/watch?v=IyN2dPgmGJI)

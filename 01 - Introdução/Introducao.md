@@ -30,7 +30,7 @@ O PHP é executado diretamente em um servidor, que interpreta os comandos no scr
 
  O PHP como uma linguagem OpenSource, significa que não é necessária a compra dos direitos para utilização, bem como a comunidade está diretamente ligada a seu desenvolvimento e manutenção, através de repositórios, onde diversos programadores podem enviar idéias de correções ou ajustes a serem consideradas pelos desenvolvedores do seu Core (núcleo).
 
-**Aproveite e visite nossa aula no Youtube:**
+**Visite a aula em vídeo no YouTube.**
 
 [01 - Introdução](https://www.youtube.com/watch?v=0HqT6vd1Nvc)
 

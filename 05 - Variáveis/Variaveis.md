@@ -2,7 +2,7 @@
 
 <p align="justify"> Variável é o conteúdo inicial e mais importante para quem está no início, visto que é através delas que você poderá criar scripts e algoritmos complexos.
 
-Uma variável nada mais é que um espaço da memória que o script pede para seu Sistema Operacional (SO) reservar e dá um nome à mesma. Ou seja, eu posso declarar uma variável " $nome = "Ruan Sales" ", lembrando que as variáveis no php são declaradas sempre com um pré-fixo de dolar ou seja, "$nomedavariavel" sem as aspas.
+Uma variável nada mais é que um espaço da memória que o script pede para seu Sistema Operacional (SO) reservar e dá um nome à mesma. Ou seja, eu posso declarar uma variável ``` $nome = "Ruan Sales"```, lembrando que as variáveis no php são declaradas sempre com um pré-fixo de dolar ou seja, ```$nomedavariavel``` sem as aspas.
 
 Variáveis tem regras para que elas sejam consideradas válidas ou inválidas.
 
@@ -41,10 +41,9 @@ $numero_telefone;
 
 $1numero;
 $-nome;
-
 ```
 
-Você poderá ver a aula respectiva no Youtube.
+**Visite a aula em vídeo no YouTube.**
 
 </p>
 

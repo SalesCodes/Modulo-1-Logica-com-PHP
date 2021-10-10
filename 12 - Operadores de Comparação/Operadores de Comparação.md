@@ -36,7 +36,7 @@ A utilização dos mesmos você irá verificar nos exemplos abaixo, onde serão 
 
 Nós temos 2 tipos de verificações, as estritas e as não estritas, quando verificamos de forma não estrita verificamos apenas o valor da expressão, ou seja, caso eu tenha uma expressão que o valor de 1 sendo número e "1" sendo string, o resultado seria verdadeiro, porém quando verificamos estritamente, estamos buscando veriicar o tipo de dado e o valor, logo, a expressão do exemplo acima, verificando o valor de 1 e "1", o resultado é falso, pois o valor em si é igual, porém o tipo de dado não.
 
-Você também pode acessar nossa aula no YouTube
+**Visite a aula em vídeo no YouTube.**
 
 </p>
 

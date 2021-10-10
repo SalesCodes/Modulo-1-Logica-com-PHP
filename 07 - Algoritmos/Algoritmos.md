@@ -30,6 +30,6 @@ Então: Abra conta
 
 Neste algoritmo, você pode verificar que não há lógica na execução, pois para realizar qualquer movimentação em um conta bancária deverá ser titular da mesma, então a lógica de abrir conta em oposição ao saldo não ser maior que o valor requerido a sacar, não tem sentido. Logo este não é um algoritmo válido.
 
-Visite nossa aula no YouTube.
+**Visite a aula em vídeo no YouTube.**
 
 [07 - Algoritmos](https://www.youtube.com/watch?v=AnotcgD_vNs&t=5s)

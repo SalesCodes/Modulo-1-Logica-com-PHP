@@ -52,6 +52,6 @@ Rode esse comando no terminal para ver o resultado:
 php primitivos.php
 ```
 
-Visite nossa aula no YouTube.
+**Visite a aula em vídeo no YouTube.**
 
 [06 - Tipos Primitivos](https://www.youtube.com/watch?v=A884f4kiSW4)
