@@ -15,6 +15,7 @@ O treinamento tem como objetivo o ensino da lógica de programação utilizando 
 - [05 - Variáveis](/05%20-%20Variáveis/Variaveis.md)
 - [06 - Tipos Primitivos](/06%20-%20Tipos%20Primitivos/Tipos%20Primitivos.md)
 - [07 - Algoritmos](/07%20-%20Algoritmos/Algoritmos.md)
+  - [07.1 - Algoritmos na Prática](/08%20-%20Algoritmos%20na%20Prática/algoritmos.php)
 
 ## Redes Sociais
 
