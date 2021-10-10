@@ -17,10 +17,50 @@ O treinamento tem como objetivo o ensino da lógica de programação utilizando 
 - [07 - Algoritmos](/07%20-%20Algoritmos/Algoritmos.md)
   - [07.1 - Algoritmos na Prática](/08%20-%20Algoritmos%20na%20Prática/algoritmos.php)
 
-## Redes Sociais
+## Canal no YouTube
 
 <left>
   <a href="https://www.youtube.com/playlist?list=PL9colCIIhmx0y7-jyE-88D-xAGL7VtNxX" target="_blank">
   <img src="https://img.shields.io/badge/Playlist Curso Lógica de Progrmação com PHP-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </left>
+
+## Contribuidores
+
+<table>
+  <td align="center">
+  <a>
+  <img src="https://avatars.githubusercontent.com/u/45979917?v=4" width="100px;" alt=""/>
+  <br />
+  <sub><b>Ruan Sales</b></sub>
+  </a>
+  <br />
+  <a href=" https://www.youtube.com/channel/UCEVan_CSqptt61vu4oT7n9w"> 
+    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/osalescodes/">
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/ruan-sales-7b4051171/">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/RuanSalles">
+    <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  </td>
+
+  <td align="center">
+  <a href="https://www.oerebor.dev">
+  <img src="https://avatars.githubusercontent.com/u/62480586?v=4" width="100px;" alt=""/>
+  <br />
+  <sub><b>Lucas Souza</b></sub>
+  </a>
+  <br />
+  <a href="https://www.linkedin.com/in/lucas-souza-dev/">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/deverebor">
+    <img src="https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  </td>
+</table>
