@@ -15,9 +15,11 @@ O treinamento tem como objetivo o ensino da lógica de programação utilizando 
 - [05 - Variáveis](/05%20-%20Variáveis/Variaveis.md)
 - [06 - Tipos Primitivos](/06%20-%20Tipos%20Primitivos/Tipos%20Primitivos.md)
 - [07 - Algoritmos](/07%20-%20Algoritmos/Algoritmos.md)
-  - [07.1 - Algoritmos na Prática](/08%20-%20Algoritmos%20na%20Prática/algoritmos.php)
-
-## Canal no YouTube
+  - [08 - Algoritmos na Prática](/08%20-%20Algoritmos%20na%20Prática/algoritmos.php)
+- [09 - Operadores Aritiméticos](/09%20-%20Operadores%20Aritméticos/Operadores%20Aritiméticos.md)
+- [10 - Operadores de Atribuição](/10%20-%20Operadores%20de%20Atribuição/Operadores%20de%20Atribuição.md)
+- [11 - Operadores Lógicos](/11%20-%20Operadores%20Lógicos/Operadores%20Lógicos.md)
+- [12 - Operadores de Comparação](/12%20-%20Operadores%20de%20Comparação/Operadores%20de%20Comparação.md)
 
 <left>
   <a href="https://www.youtube.com/playlist?list=PL9colCIIhmx0y7-jyE-88D-xAGL7VtNxX" target="_blank">
