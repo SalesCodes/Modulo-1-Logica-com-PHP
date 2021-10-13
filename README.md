@@ -20,6 +20,8 @@ O treinamento tem como objetivo o ensino da lógica de programação utilizando 
 - [10 - Operadores de Atribuição](/10%20-%20Operadores%20de%20Atribuição/Operadores%20de%20Atribuição.md)
 - [11 - Operadores Lógicos](/11%20-%20Operadores%20Lógicos/Operadores%20Lógicos.md)
 - [12 - Operadores de Comparação](/12%20-%20Operadores%20de%20Comparação/Operadores%20de%20Comparação.md)
+- [13 - Condicional IF](13%20-%20Condicional%20IF/Condicional%20IF.md)
+- [14 - Condicional Switch](14%20-%20Condicional%20Switch/Switch.md)
 
 <left>
   <a href="https://www.youtube.com/playlist?list=PL9colCIIhmx0y7-jyE-88D-xAGL7VtNxX" target="_blank">
